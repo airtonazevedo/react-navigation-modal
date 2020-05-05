@@ -2,6 +2,9 @@
 
 This is a modal component to be used together with react-navigation
 
+![](example/assets/gif.gif)
+
+
 ## how to use
 
 Create a component for your modal
