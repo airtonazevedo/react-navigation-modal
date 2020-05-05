@@ -1,0 +1,19 @@
+{
+  "name": "react-navigation-modal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Modal for react-native",
+  "repository": "https://github.com/airtonazevedo/react-navigation-modal.git",
+  "author": "airtonazevedo <airton.mtaz@gmail.com.br>",
+  "keywords": ["react", "native", "modal", "navigation", "animated", "form", "view"],
+  "bugs": {
+    "url": "https://github.com/airtonazevedo/react-navigation-modal/issues"
+  },
+  "homepage": "https://github.com/airtonazevedo/react-navigation-modal#readme",
+  "license": "MIT",
+  "peerDependencies": {
+    "@react-navigation/native": "^5.2.4",
+    "react": "^16.13.1",
+    "react-native": "^0.62.2"
+  }
+}
