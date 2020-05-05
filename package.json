@@ -1,7 +1,7 @@
 {
   "name": "react-navigation-modal",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.1",
+  "main": "index.ts",
   "description": "Modal for react-native",
   "repository": "https://github.com/airtonazevedo/react-navigation-modal.git",
   "author": "airtonazevedo <airton.mtaz@gmail.com.br>",

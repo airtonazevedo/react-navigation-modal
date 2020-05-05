@@ -5213,8 +5213,10 @@ react-native@0.62.2:
     use-subscription "^1.0.0"
     whatwg-fetch "^3.0.0"
 
-"react-navigation-modal@file:../modal":
-  version "0.0.0"
+react-navigation-modal@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-navigation-modal/-/react-navigation-modal-1.0.1.tgz#bb9aa73042b8145c46b446987bdec22ef991867a"
+  integrity sha512-PLK6Qoh5OWvsIarjiHy9ofXEtMqzyWjsIbLHcKCm+YIY8MI2bpD2CqFEG0R1mv7dDE9cV7b5Wjg6e3mQPUi8eQ==
 
 react-refresh@^0.4.0:
   version "0.4.2"
