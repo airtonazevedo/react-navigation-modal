@@ -2,13 +2,13 @@ import React, { useEffect } from 'react';
 import { View, TouchableWithoutFeedback, ViewProps, StyleSheet } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 
-interface Props extends ViewProps {
+export interface ModalNavigationProps extends ViewProps {
     children: React.ReactNode,
     cancelable: boolean,
     opacity: number
 }
 
-const modal = (props: Props): React.ReactElement => {
+const modal = (props: ModalNavigationProps): React.ReactElement => {
 
     const navigation = useNavigation();
     useEffect(() => {
