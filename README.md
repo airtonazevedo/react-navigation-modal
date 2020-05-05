@@ -42,6 +42,9 @@ For open your modal just:
 navigation.navigate('Default')
 ```
 
+More examples in
+https://github.com/airtonazevedo/react-navigation-modal/tree/master/example
+
 ## Props
 
 | Props  	| Type  	| Default<Br> value  	|  Description 	|
