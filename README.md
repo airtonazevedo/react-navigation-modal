@@ -27,7 +27,7 @@ export const DefaultModal = () => {
 Add your modals to your navigation just like any other screen
 
 ```js
-  <Stack.Navigator headerMode="screen" mode="modal">
+  <Stack.Navigator headerMode="screen">
         <Stack.Screen name="Home" component={HomeScreen} />
         <Stack.Screen name="Default" component={DefaultModal} />
         <Stack.Screen name="Form" component={FormModal} />
@@ -35,7 +35,7 @@ Add your modals to your navigation just like any other screen
     </Stack.Navigator>
 ```
 
-__To avoid bugs it is recommended to configure the headerMode and the mode like the example__
+__To avoid bugs it is recommended to configure the headerMode like the example__
 
 For open your modal just:
 ```js
