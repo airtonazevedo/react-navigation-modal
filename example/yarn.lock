@@ -5213,10 +5213,10 @@ react-native@0.62.2:
     use-subscription "^1.0.0"
     whatwg-fetch "^3.0.0"
 
-react-navigation-modal@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/react-navigation-modal/-/react-navigation-modal-1.0.2.tgz#ffa27aa8986aca0dd7c466d6b99ee7ad0560b880"
-  integrity sha512-3pz/CsbAHgBYsdIDujXG1E40avae/3GCds/RAb0YjPYc/qi5f6dhJ1zD2qdMDBjqq1h82dDlLDvIcJwr5+6N4w==
+react-navigation-modal@^1.0.3:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/react-navigation-modal/-/react-navigation-modal-1.0.6.tgz#5762df60fca2bf12dccc41ce9e0cbc561858267c"
+  integrity sha512-oT70PymRXV9iqihDPnm7h2IotEDD27XMflxjANQr5y8vTV9CcBQ33KLkxxvBvBierN5I9GI5M5aDddO+CdB4Jw==
 
 react-refresh@^0.4.0:
   version "0.4.2"
@@ -6257,9 +6257,9 @@ typescript@^3.8.3:
   integrity sha512-MYlEfn5VrLNsgudQTVJeNaQFUAI7DkhnOjdpAp4T+ku1TfQClewlbSuTVHiA+8skNBgaf02TL/kLOvig4y3G8w==
 
 ua-parser-js@^0.7.18:
-  version "0.7.21"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
-  integrity sha512-+O8/qh/Qj8CgC6eYBVBykMrNtp5Gebn4dlGD/kKXVkJNDwyrAwSIqwz8CDf+tsAIWVycKcku6gIXJ0qwx/ZXaQ==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-es@^3.1.9:
   version "3.3.9"
