@@ -4109,9 +4109,9 @@ lodash.throttle@^4.1.1:
   integrity sha1-wj6RtxAkKscMN/HhzaknTMOb8vQ=
 
 lodash@^4.17.10, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.3.0:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-symbols@^2.2.0:
   version "2.2.0"
@@ -5213,10 +5213,10 @@ react-native@0.62.2:
     use-subscription "^1.0.0"
     whatwg-fetch "^3.0.0"
 
-react-navigation-modal@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/react-navigation-modal/-/react-navigation-modal-1.0.2.tgz#ffa27aa8986aca0dd7c466d6b99ee7ad0560b880"
-  integrity sha512-3pz/CsbAHgBYsdIDujXG1E40avae/3GCds/RAb0YjPYc/qi5f6dhJ1zD2qdMDBjqq1h82dDlLDvIcJwr5+6N4w==
+react-navigation-modal@^1.0.3:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/react-navigation-modal/-/react-navigation-modal-1.0.6.tgz#5762df60fca2bf12dccc41ce9e0cbc561858267c"
+  integrity sha512-oT70PymRXV9iqihDPnm7h2IotEDD27XMflxjANQr5y8vTV9CcBQ33KLkxxvBvBierN5I9GI5M5aDddO+CdB4Jw==
 
 react-refresh@^0.4.0:
   version "0.4.2"
