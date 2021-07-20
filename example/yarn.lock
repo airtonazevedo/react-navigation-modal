@@ -5176,10 +5176,10 @@ react-native-screens@^2.7.0:
   resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-2.7.0.tgz#2d3cf3c39a665e9ca1c774264fccdb90e7944047"
   integrity sha512-n/23IBOkrTKCfuUd6tFeRkn3lB2QZ3cmvoubRscR0JU/Zl4/ZyKmwnFmUv1/Fr+2GH/H8UTX59kEKDYYg3dMgA==
 
-react-native@0.62.2:
-  version "0.62.2"
-  resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.62.2.tgz#d831e11a3178705449142df19a70ac2ca16bad10"
-  integrity sha512-gADZZ3jcm2WFTjh8CCBCbl5wRSbdxqZGd+8UpNwLQFgrkp/uHorwAhLNqcd4+fHmADgPBltNL0uR1Vhv47zcOw==
+react-native@0.62.3:
+  version "0.62.3"
+  resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.62.3.tgz#9a2e96af3dedd0723c8657831eec4ed3c30f3299"
+  integrity sha512-b2/hDHDlO5Of2Zn1K5ZgvzOoUrvMEvlYU4miS9rcEBp5jK/9cRQn81HZ7NBmf4gzigGl8CxbSx1l10GUj1k8XQ==
   dependencies:
     "@babel/runtime" "^7.0.0"
     "@react-native-community/cli" "^4.5.1"
@@ -5213,10 +5213,10 @@ react-native@0.62.2:
     use-subscription "^1.0.0"
     whatwg-fetch "^3.0.0"
 
-react-navigation-modal@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/react-navigation-modal/-/react-navigation-modal-1.0.2.tgz#ffa27aa8986aca0dd7c466d6b99ee7ad0560b880"
-  integrity sha512-3pz/CsbAHgBYsdIDujXG1E40avae/3GCds/RAb0YjPYc/qi5f6dhJ1zD2qdMDBjqq1h82dDlLDvIcJwr5+6N4w==
+react-navigation-modal@^1.0.3:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/react-navigation-modal/-/react-navigation-modal-1.0.6.tgz#5762df60fca2bf12dccc41ce9e0cbc561858267c"
+  integrity sha512-oT70PymRXV9iqihDPnm7h2IotEDD27XMflxjANQr5y8vTV9CcBQ33KLkxxvBvBierN5I9GI5M5aDddO+CdB4Jw==
 
 react-refresh@^0.4.0:
   version "0.4.2"
