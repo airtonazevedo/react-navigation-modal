@@ -4541,9 +4541,9 @@ nan@^2.12.1:
   integrity sha512-isWHgVjnFjh2x2yuJ/tj3JbwoHu3UC2dX5G/88Cm24yB6YopVgxvBObDY7n5xW6ExmFhJpSEQqFPvq9zaXc8Jw==
 
 nanoid@^3.0.2:
-  version "3.1.5"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.5.tgz#56da1bb76b619391fc61625e8b4e4bff309b9942"
-  integrity sha512-77yYm8wPy8igTpUQv9fA0VzEb5Ohxt5naC3zTK1oAb+u1MiyITtx0jpYrYRFfgJlefwJy2SkCaojZvxSYq6toA==
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.2.0.tgz#62667522da6673971cca916a6d3eff3f415ff80c"
+  integrity sha512-fmsZYa9lpn69Ad5eDn7FMcnnSR+8R34W9qJEijxYhTbfOWzr22n1QxCMzXLK+ODyW2973V3Fux959iQoUxzUIA==
 
 nanomatch@^1.2.9:
   version "1.2.13"
@@ -5213,10 +5213,10 @@ react-native@0.62.2:
     use-subscription "^1.0.0"
     whatwg-fetch "^3.0.0"
 
-react-navigation-modal@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/react-navigation-modal/-/react-navigation-modal-1.0.2.tgz#ffa27aa8986aca0dd7c466d6b99ee7ad0560b880"
-  integrity sha512-3pz/CsbAHgBYsdIDujXG1E40avae/3GCds/RAb0YjPYc/qi5f6dhJ1zD2qdMDBjqq1h82dDlLDvIcJwr5+6N4w==
+react-navigation-modal@^1.0.3:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/react-navigation-modal/-/react-navigation-modal-1.0.6.tgz#5762df60fca2bf12dccc41ce9e0cbc561858267c"
+  integrity sha512-oT70PymRXV9iqihDPnm7h2IotEDD27XMflxjANQr5y8vTV9CcBQ33KLkxxvBvBierN5I9GI5M5aDddO+CdB4Jw==
 
 react-refresh@^0.4.0:
   version "0.4.2"
