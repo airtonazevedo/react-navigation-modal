@@ -5113,9 +5113,9 @@ punycode@^2.1.0, punycode@^2.1.1:
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^6.12.0:
   version "6.12.1"
@@ -5213,10 +5213,10 @@ react-native@0.62.2:
     use-subscription "^1.0.0"
     whatwg-fetch "^3.0.0"
 
-react-navigation-modal@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/react-navigation-modal/-/react-navigation-modal-1.0.2.tgz#ffa27aa8986aca0dd7c466d6b99ee7ad0560b880"
-  integrity sha512-3pz/CsbAHgBYsdIDujXG1E40avae/3GCds/RAb0YjPYc/qi5f6dhJ1zD2qdMDBjqq1h82dDlLDvIcJwr5+6N4w==
+react-navigation-modal@^1.0.3:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/react-navigation-modal/-/react-navigation-modal-1.0.6.tgz#5762df60fca2bf12dccc41ce9e0cbc561858267c"
+  integrity sha512-oT70PymRXV9iqihDPnm7h2IotEDD27XMflxjANQr5y8vTV9CcBQ33KLkxxvBvBierN5I9GI5M5aDddO+CdB4Jw==
 
 react-refresh@^0.4.0:
   version "0.4.2"
